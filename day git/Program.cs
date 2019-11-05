@@ -11,6 +11,8 @@ namespace day_git
         static void Main(string[] args)
         {
             Console.WriteLine("hello git");
+            Console.Write("Hello git hub");
+            Console.Write("Hello shivam");
         }
     }
 }
