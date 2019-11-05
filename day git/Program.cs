@@ -12,7 +12,13 @@ namespace day_git
         {
             Console.WriteLine("hello git");
             Console.Write("Hello git hub");
-            Console.Write("hello shivam");
+            Console.Write("Hello shivam");
+        }
+
+        void Abc()
+        {
+            Console.WriteLine("ABC");
+
         }
     }
 }
